@@ -1,2 +1,2 @@
 # neural-network
-A neural network learning to fit to Sine curve. 
+Neural Network learning to fit to Sine curve. 
